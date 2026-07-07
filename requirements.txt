@@ -1,0 +1,7 @@
+requests
+pandas
+lifelines
+matplotlib
+streamlit
+python-dateutil
+numpy
